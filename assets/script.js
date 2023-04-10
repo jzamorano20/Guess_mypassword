@@ -31,6 +31,7 @@ function generatePassword() {
   var characteramount = prompt("Enter how many characters you would like your password to be(must be between 8-128)")
   if (characteramount < 8 || characteramount > 128) {
     alert("Invalid character amount, please try again")
+    characteramount = false
   }
 
   // possible characters that will be included from this selection if outcome is true 
