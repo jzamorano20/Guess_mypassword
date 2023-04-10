@@ -17,3 +17,7 @@
 
 ![This is a screenshot of the password with 8 characters](./assets/pass_gen_char8.png)
 ![This is a screenshot of the password generator when you enter a charcater length not accepted and will not create it](./assets/pass_gen_err.png)
+
+The following is a link to the delpoyed site .
+
+https://jzamorano20.github.io/Guess_mypassword/
